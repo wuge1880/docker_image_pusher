@@ -1,1 +1,2 @@
-nvidia/cuda:12.6.3-cudnn-runtime-ubuntu24.04
+nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
+
